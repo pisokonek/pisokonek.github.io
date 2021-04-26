@@ -2,7 +2,7 @@
 
 ## Introduction
 
-PisoKonek lets you manage wifi users in your device. 
+PiKonek lets you manage wifi users in your device. 
 
 ### Getting Started
 
@@ -34,7 +34,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Having trouble with our software?
 File an issue [here](https://github.com/pisokonek/PisoKonek/issues).
-
-### Contact
-
-Contact us at dev.pisokonek@gmail.com
