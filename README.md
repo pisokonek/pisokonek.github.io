@@ -1,4 +1,4 @@
-# Welcome to PisoKonek Wifi
+# Welcome to PiKonek
 
 ## Introduction
 
